@@ -24,9 +24,66 @@ Sup, I'm Arfan Zamri
 - 🌱 I’m currently learning DSA, ML and AI
 - ⚡ Fun fact: I like Piano 
 
-### LeetCode 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Fankey)](https://leetcode.com/Fankey)
+### Tech Stacks
+<table border="1">
+            <tr align="center">
+                <th width="200">Category</th>
+                <th width="600">Skills</th>
+            </tr>
+            <tr>
+                <td>Programming Language</td>
+                <td>
+                    <!-- Unordered List -->
+                    <ul>
+                        <li>Python</li>
+                        <li>Java</li>
+                        <li>C++</li>
+                        <li>HTML</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Tools</td>
+                <td>
+                    <!-- Unordered List -->
+                    <ul>
+                        <li>Maven</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Database</td>
+                <td>
+                    <!-- Unordered List -->
+                    <ul>
+                        <li>MySQL</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Cloud</td>
+                <td>
+                    <!-- Unordered List -->
+                    <ul>
+                        <li>AWS</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Others</td>
+                <td>
+                    <!-- Unordered List -->
+                    <ul>
+                        <li>Figma</li>
+                        <li>GitHub</li>
+                        <li>Chat-GPT</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
 
+### LeetCode 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Fankey?ext=heatmap)](https://leetcode.com/Fankey)
 
 ### 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArfanZamri) 
