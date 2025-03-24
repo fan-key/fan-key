@@ -33,51 +33,40 @@ Sup, I'm Arfan Zamri
             <tr>
                 <td>Programming Language</td>
                 <td>
-                    <!-- Unordered List -->
-                    <ul>
-                        <li>Python</li>
-                        <li>Java</li>
-                        <li>C++</li>
-                        <li>HTML</li>
-                    </ul>
+                    <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "C++">
+                    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+                    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+                    <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+                    <img src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+                    <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
                 </td>
             </tr>
             <tr>
-                <td>Tools</td>
+                <td>Frameworks, Platfroms, Libraries</td>
                 <td>
-                    <!-- Unordered List -->
-                    <ul>
-                        <li>Maven</li>
-                    </ul>
+                    <img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+                    <img src = "https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
                 </td>
             </tr>
             <tr>
                 <td>Database</td>
                 <td>
-                    <!-- Unordered List -->
-                    <ul>
-                        <li>MySQL</li>
-                    </ul>
+                    <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
                 </td>
             </tr>
             <tr>
                 <td>Cloud</td>
                 <td>
-                    <!-- Unordered List -->
-                    <ul>
-                        <li>AWS</li>
-                    </ul>
+                    <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
                 </td>
             </tr>
             <tr>
                 <td>Others</td>
                 <td>
-                    <!-- Unordered List -->
-                    <ul>
-                        <li>Figma</li>
-                        <li>GitHub</li>
-                        <li>Chat-GPT</li>
-                    </ul>
+                    <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+                    <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+                    <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
                 </td>
             </tr>
         </table>
@@ -87,4 +76,3 @@ Sup, I'm Arfan Zamri
 
 ### 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArfanZamri) 
-
