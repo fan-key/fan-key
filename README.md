@@ -52,12 +52,14 @@ Sup, I'm Arfan Zamri
                 <td>Database</td>
                 <td>
                     <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+                  <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"?
                 </td>
             </tr>
             <tr>
                 <td>Cloud</td>
                 <td>
                     <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+                    <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
                 </td>
             </tr>
             <tr>
