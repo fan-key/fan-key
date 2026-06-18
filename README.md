@@ -19,10 +19,102 @@
 </div>
 
 ## About Me
-Sup, I'm Arfan Zamri
+Software Engineering student with hackathon experience, deployed projects, AI/mobile development exposure, and demonstrated achievement.
 
 - 🌱 I’m currently learning DSA, ML and AI
 - ⚡ Fun fact: I like Piano 
+
+## 🏆 Hackathons & Competitions
+
+<table>
+  <tr>
+    <th>Event</th>
+    <th>Project</th>
+    <th>Achievement</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  
+  <tr>
+    <td><b>Technothon 2026</b></td>
+    <td>ThermaLearn</td>
+    <td>🏅 Finalist</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+    </td>
+    <td><a href="http://github.com/fan-key/measure_aircon">Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>BorneoHack 2026</b></td>
+    <td>TaniWise</td>
+    <td>🎯 Participant</td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+    </td>
+    <td><a href="https://github.com/fan-key/BorneoHack">Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>KitaHack 2026</b></td>
+    <td>DocTeleMY</td>
+    <td>🎯 Participant</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square">
+    </td>
+    <td><a href="https://github.com/Kearskill/kitahackLah">>Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>UMHackathon 2025</b></td>
+    <td>Bitcoin Signal Predictor</td>
+    <td>🎯 Participant</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+    </td>
+    <td><a href="https://github.com/fan-key/UMHackathon-2025">Repo</a></td>
+  </tr>
+
+</table>
+<br>
+
+## 🚀 Featured Projects
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  
+  <tr>
+    <td><b>FridgeBuddy</b></td>
+    <td>Mobile app for inventory tracking, barcode scanning, and AI recipe recommendations based on expiring ingredients.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+    </td>
+    <td><a href="https://github.com/NuHazim/FridgeAppMad">Repo</a></td>
+  </tr>
+  
+  <tr>
+    <td><b>MovieVault</b></td>
+    <td>Movie recommendation and discovery platform using TMDB API.</td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black">
+    </td>
+    <td><a href="https://github.com/fan-key/WIF2003-Entertainment-Recommendation-System">Repo</a></td>
+  </tr>
+</table>
+
 
 ### Tech Stacks
 <table border="1">
@@ -84,6 +176,3 @@ Sup, I'm Arfan Zamri
                 </td>
             </tr>
         </table>
-
-### 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ArfanZamri) 
